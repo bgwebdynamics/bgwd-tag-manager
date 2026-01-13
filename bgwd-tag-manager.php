@@ -16,7 +16,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 // Plugin version constant
-define( 'BGWD_GTM_VERSION', '2.1.0' );
+define( 'BGWD_GTM_VERSION', '2.1.1' );
 define( 'BGWD_GTM_OPTION_NAME', 'bgwd_gtm_id' );
 
 /**
