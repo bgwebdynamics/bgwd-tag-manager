@@ -1,6 +1,12 @@
 # Changelog
 All notable changes to BG Web Dynamics Tag Manager will be documented in this file.
 
+## [2.1.7] - 2026-01-12
+
+### Fixed
+
+- Typo in Salient theme hook (was nectar_hook_after_body_ts, corrected to nectar_hook_after_body_open)
+
 ## [2.1.6] - 2026-01-12
 
 ### Fixed
@@ -34,7 +40,3 @@ All notable changes to BG Web Dynamics Tag Manager will be documented in this fi
 
 -Improved settings page layout with information panels
 -Version number format to semantic versioning (2.1.0)
-
-### Fixed
-
-- Typo in Salient theme hook (was nectar_hook_after_body_ts, corrected to nectar_hook_after_body_open)
