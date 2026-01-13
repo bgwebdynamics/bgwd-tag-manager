@@ -3,7 +3,7 @@
 A WordPress plugin for easy Google Tag Manager integration.
 
 ## Version
-Current version: 2.1.7
+Current version: 2.1.8
 
 ## Installation
 1. Download the latest release

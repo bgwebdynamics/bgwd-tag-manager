@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to BG Web Dynamics Tag Manager will be documented in this file.
 
+## [2.1.8] - 2026-01-12
+
+- Bump to 2.1.8
+
 ## [2.1.7] - 2026-01-12
 
 ### Fixed
