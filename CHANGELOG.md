@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to BG Web Dynamics Tag Manager will be documented in this file.
 
+## [2.1.6] - 2026-01-12
+
+### Fixed
+- added special character entities for less than and greater than signs in plugin description
+
 ## [2.1.2 - 2.1.5] - 2026-01-12
 
 ### Fixed
