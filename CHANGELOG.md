@@ -1,4 +1,5 @@
 # Changelog
+
 All notable changes to BG Web Dynamics Tag Manager will be documented in this file.
 
 ## [2.1.10] - 2026-01-13
@@ -18,24 +19,27 @@ All notable changes to BG Web Dynamics Tag Manager will be documented in this fi
 ## [2.1.6] - 2026-01-12
 
 ### Fixed
+
 - added special character entities for less than and greater than signs in plugin description
 
 ## [2.1.2 - 2.1.5] - 2026-01-12
 
 ### Fixed
+
 - Changed how auto updates work. Should see new releases immediatly
 
 ## [2.1.1] - 2026-01-12
 
 ### Changed
+
 - worked on setting up auto updates
 
 ## [2.1.0] - 2026-01-12
 
 ### Added
 
--Automatic updates via GitHub releases
--Plugin Update Checker library integration
+- Automatic updates via GitHub releases
+- Plugin Update Checker library integration
 - Version constants for better version management
 - Input validation for GTM Container ID format
 - Admin notice when GTM ID is not configured
