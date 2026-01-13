@@ -3,7 +3,7 @@
 Plugin Name: BG Web Dynamics Tag Manager
 Plugin URI: https://bgwebdynamics.com
 Description: Install Google Tag Manager into <head> and <body>. Works with Avada, Salient, and standard WordPress themes.
-Version: 2.1.0
+Version: 2.1.1
 Author: BG Web Dynamics
 Author URI: https://bgwebdynamics.com
 Text Domain: bgwd-tag-manager
@@ -35,7 +35,7 @@ $myUpdateChecker = PucFactory::buildUpdateChecker(
 $myUpdateChecker->setBranch('main');
 
 // Optional: If your repository is private, specify the access token
-// $myUpdateChecker->setAuthentication('your-token-here');
+$myUpdateChecker->setAuthentication('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');
 
 /**
  * Activation hook
